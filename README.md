@@ -11,7 +11,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-medium
+    $ npm install passport-medium-v2
 
 ## Usage
 
